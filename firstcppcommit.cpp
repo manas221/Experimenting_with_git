@@ -1,9 +1,9 @@
 #include<iostream>
 
-using std::cin
-using std::cout 
+using std::cin;
+using std::cout;
 
 int main(){
-    cout<<"Hello github!"
+    cout<<"Hello github!";
     return 0;
 }
